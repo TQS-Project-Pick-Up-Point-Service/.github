@@ -1,4 +1,4 @@
-# TQS Project - Pick-Up Point Service
+# TQS Project - PickyPicky
 
 ## Description
 
@@ -20,13 +20,13 @@ This Spring Boot based application provides a network of pick-up points as a ser
 
 * [Project Backlog (Jira)](https://tqs-project.atlassian.net/jira/software/projects/TP/boards/1/backlog)
 
-* [Repositories (GitHub Organization)](https://github.com/TQS-Project-Pick-Up-Point-Service)
+* [Repositories (GitHub Organization)](https://github.com/TQS-Project-PickyPicky)
   
-  * [Backend](https://github.com/TQS-Project-Pick-Up-Point-Service/Backend)
+  * [Backend](https://github.com/TQS-Project-PickyPicky/Backend)
   
-  * [eStore](https://github.com/TQS-Project-Pick-Up-Point-Service/eStore)
+  * [eStore](https://github.com/TQS-Project-PickyPicky/eStore)
   
-  * [Docs](https://github.com/TQS-Project-Pick-Up-Point-Service/Docs)
+  * [Docs](https://github.com/TQS-Project-PickyPicky/Docs)
 
 * [API Documentation (Swagger)]()
 
