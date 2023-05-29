@@ -16,7 +16,7 @@ This Spring Boot based application provides a network of pick-up points as a ser
 | 103183 | Diogo Luís de Albuquerque Paiva | DevOps Master                 |
 | 103453 | Bruna de Melo Simões            | Product Owner                 |
 
-## Resources
+## General Resources
 
 * [Project Backlog (Jira)](https://tqs-project.atlassian.net/jira/software/projects/TP/boards/1/backlog)
 
@@ -28,10 +28,20 @@ This Spring Boot based application provides a network of pick-up points as a ser
   
   * [Docs](https://github.com/TQS-Project-PickyPicky/Docs)
 
+## Backend Resources
+
 * [API Documentation (Swagger)]()
 
-* [QA Dashboard (Sonar Cloud)]()
+* [QA Dashboard (Sonar Cloud)](https://sonarcloud.io/summary/new_code?id=tqs-project-backend)
 
-* [CI/CD Pipeline (GitHub Actions)]()
+* [PR Check Pipeline (GitHub Actions)](https://github.com/TQS-Project-PickyPicky/Backend/blob/main/.github/workflows/pr_check.yml)
 
-* [Deployment (Azure)]()
+* [CI/CD Pipeline (GitHub Actions)](https://github.com/TQS-Project-PickyPicky/Backend/blob/main/.github/workflows/deployment.yml)
+
+* [Deployment (Azure)](https://pickypicky.azurewebsites.net/)
+
+## eStore Resources
+
+* [CI/CD Pipeline (GitHub Actions)](https://github.com/TQS-Project-PickyPicky/eStore/blob/main/.github/workflows/deployment.yml)
+
+* [Deployment (Azure)](https://e-store.azurewebsites.net/)
