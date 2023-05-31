@@ -30,7 +30,7 @@ This Spring Boot based application provides a network of pick-up points as a ser
 
 ## Backend Resources
 
-* [API Documentation (Swagger)]()
+* [API Documentation (Swagger)](https://pickypicky.azurewebsites.net/swagger-ui/index.html)
 
 * [QA Dashboard (Sonar Cloud)](https://sonarcloud.io/summary/new_code?id=tqs-project-backend)
 
