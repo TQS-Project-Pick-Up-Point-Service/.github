@@ -38,10 +38,22 @@ This Spring Boot based application provides a network of pick-up points as a ser
 
 * [CI/CD Pipeline (GitHub Actions)](https://github.com/TQS-Project-PickyPicky/Backend/blob/main/.github/workflows/deployment.yml)
 
-* [Deployment (Azure)](https://pickypicky.azurewebsites.net/)
+* [Deployment (Azure)](https://pickypicky.azurewebsites.net/main/login)
+
+| Role            | Username  | Password  |
+| --------------- | --------- | --------- |
+| Administrator   | admin     | admin     |
+| CollectionPoint | candido   | ilovetqs  |
+| CollectionPoint | tania     | tatigames |
 
 ## eStore Resources
 
 * [CI/CD Pipeline (GitHub Actions)](https://github.com/TQS-Project-PickyPicky/eStore/blob/main/.github/workflows/deployment.yml)
 
 * [Deployment (Azure)](https://e-store.azurewebsites.net/)
+
+| Role          | Username  | Password   |
+| ------------- | --------- | ---------- |
+| Administrator | admin     | admin      |
+| Normal User   | user1     | ilovetqs   |
+| Normal User   | user2     | iloveuser1 |
